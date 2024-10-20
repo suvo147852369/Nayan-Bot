@@ -14,18 +14,6 @@
     },
     {
         "domain": ".facebook.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "usida",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "eyJ2ZXIiOjEsImlkIjoiQXNsamhscjYxYXo0dCIsInRpbWUiOjE3MjkyMzQyOTB9"
-    },
-    {
-        "domain": ".facebook.com",
         "expirationDate": 1763794043.770356,
         "hostOnly": false,
         "httpOnly": true,
@@ -39,7 +27,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1737123981.761636,
+        "expirationDate": 1737124526.82952,
         "hostOnly": false,
         "httpOnly": true,
         "name": "fr",
@@ -48,11 +36,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "1c5XgvRSGTsarDMIn.AWXpLUUWM-kHCePZcoYZ5FfguJc.BnFJDR..AAA.0.0.BnFJDR.AWXgjnpMFbU"
+        "value": "1JTway8cEwiISAewI.AWX2MOcqKvpAAdYH6_e1e8903bg.BnFKNw..AAA.0.0.BnFKNw.AWU2_9sn8uU"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1760883981.761673,
+        "expirationDate": 1760884526.829555,
         "hostOnly": false,
         "httpOnly": true,
         "name": "xs",
@@ -61,11 +49,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "3%3Ap0jKKkGOEbR5Zw%3A2%3A1729354171%3A-1%3A-1%3A%3AAcWR-85USf_kxT74ThQuY8pxsTJK2gTJBFf8wWI5VA"
+        "value": "3%3Ap0jKKkGOEbR5Zw%3A2%3A1729354171%3A-1%3A-1%3A%3AAcWJLwLEzLQIgZHJ6LPj1TX840SfaR7ISQ46JWkPOA"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1760883981.761554,
+        "expirationDate": 1760884526.829448,
         "hostOnly": false,
         "httpOnly": false,
         "name": "c_user",
@@ -86,19 +74,7 @@
         "secure": true,
         "session": true,
         "storeId": null,
-        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729347980934%2C%22v%22%3A1%7D"
-    },
-    {
-        "domain": ".facebook.com",
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "ar_debug",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "1"
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729348527657%2C%22v%22%3A1%7D"
     },
     {
         "domain": ".facebook.com",
@@ -128,7 +104,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1729952779,
+        "expirationDate": 1729953327,
         "hostOnly": false,
         "httpOnly": false,
         "name": "wd",
