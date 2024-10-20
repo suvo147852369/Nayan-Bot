@@ -7,15 +7,15 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "shanta",
   "PREFIX": "/",
   "OPERATOR": [
     "100014896964436",
     "100000959749712"
   ],
   "ADMINBOT": [
-    "100000959749712",
-    ""
+    "100083095608270",
+    "61565499472205"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
